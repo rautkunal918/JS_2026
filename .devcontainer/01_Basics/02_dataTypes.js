@@ -18,4 +18,4 @@ let isLoggedIn = "false"
 //symbol =>unique
 //object 
 
-console.log(typeof name, age, ); //output will be string,number
+console.log(typeof name, age, ); //output will be string,numbers
